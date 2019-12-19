@@ -355,7 +355,8 @@
 		"name": "Romanian Leu"
 	},
 	"RUB": {
-		"name": "Russian Ruble"
+		"name": "Russian Ruble",
+		"symbol": "₽"
 	},
 	"RWF": {
 		"name": "Rwandan Franc"

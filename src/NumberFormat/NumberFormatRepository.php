@@ -322,8 +322,8 @@ class NumberFormatRepository implements NumberFormatRepositoryInterface
                 'numbering_system' => 'latn',
                 'decimal_pattern' => '#,##0.###',
                 'percent_pattern' => '#,##0%',
-                'currency_pattern' => '¤#,##0.00',
-                'accounting_currency_pattern' => '¤#,##0.00;(¤#,##0.00)',
+                'currency_pattern' => '¤ #,##0.00',
+                'accounting_currency_pattern' => '¤ #,##0.00;(¤ #,##0.00)',
             ],
             'en-150' => [
                 'currency_pattern' => '#,##0.00 ¤',
